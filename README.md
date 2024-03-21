@@ -188,3 +188,7 @@ URL : https://reqres.in/api/users?page=2
 Method : GET
 Param : page=1 (use proper pagination and get till last page
 available)
+![users_screen](https://github.com/Raghavan2005/SPYFINDER_TNSKILLS/assets/78393373/a86f7061-7be7-44ff-b4c0-72929181ced2)
+![login_screen](https://github.com/Raghavan2005/SPYFINDER_TNSKILLS/assets/78393373/812bf7ab-0593-4db7-b14e-7a6b8218591e)
+
+# Preview 
